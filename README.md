@@ -29,4 +29,3 @@ Prochain projet : Kubernetes ☸️
 Parce qu'orchestrer 2 containers c'est bien.
 En orchestrer 100 en production, c'est autre chose.
 
-Tu débutes en DevOps ? Qu'est-ce qui t'a le plus bloqué au début ?
